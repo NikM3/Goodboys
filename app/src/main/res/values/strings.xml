@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Who\'s A Good Boy?</string>
+    <string name="welcome_message">Take a picture or video of your favorite animal friend and find out if they\'re a good boy!</string>
+    <string name="photo_button">Photo</string>
+    <string name="video_button">Video</string>
+    <string name="again_button">Again!</string>
+    <string name="alright_button">Alright!</string>
+    <string name="permission_message">Please allow permissions to use this app</string>
+    <string name="snap_button">Take photo</string>
+    <string name="start_button">Start video</string>
+    <string name="stop_button">End video</string>
+    <string name="back_cam_message">That\'s a good boy!</string>
+    <string name="front_cam_message">You\'re a good boy!</string>
+</resources>
